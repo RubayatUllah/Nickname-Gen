@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    padding: 11.5px;
+    border-radius: 5px;
+}
+
+html {
+    background-color: #0289c7;
+}
+
+p, h1, body {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+button {
+    color: whitesmoke; 
+    background-color: black;
+    border-color:whitesmoke;
+    border-radius: 15x;
+    
+}
+
